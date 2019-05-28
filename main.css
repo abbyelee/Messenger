@@ -1,0 +1,22 @@
+#send-container{
+    padding : 5px;
+    width: 100%;
+    max-width: 1200px;
+    position: fixed;
+    background-color : lavender;
+    bottom: 0;    
+
+}
+#message-container{
+    padding : 5px;
+    width: 100%;
+    max-width: 1200px;
+    background-color: whitesmoke;
+
+}
+body{
+    padding: 0;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
